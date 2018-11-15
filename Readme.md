@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/ColumnMenuCustomization/MainPage.xaml) (VB: [MainPage.xaml](./VB/ColumnMenuCustomization/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/ColumnMenuCustomization/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/ColumnMenuCustomization/MainPage.xaml))
+<!-- default file list end -->
 # How to customize a column's context menu (add/remove menu items)
 
 
